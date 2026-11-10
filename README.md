@@ -106,6 +106,7 @@ Partiful has no official connector in the ChatGPT or Claude directories. Cotlet.
 - [Partiful on Cotlet.dev](https://cotlet.dev/integrations/partiful-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=partiful&utm_content=find)
 - [PyPI package partiful-mcp](https://pypi.org/project/partiful-mcp/)
 - [Odel](https://odel.app/modules/cotlet/partiful)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/partiful/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-partiful-to-ai-agents-guide)
 
 ## Also works with
